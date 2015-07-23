@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Battle Ship", "Battle Ship.vbproj", "{E9EBF41B-BFDF-41BD-9409-7C5D10518A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EBF41B-BFDF-41BD-9409-7C5D10518A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EBF41B-BFDF-41BD-9409-7C5D10518A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EBF41B-BFDF-41BD-9409-7C5D10518A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EBF41B-BFDF-41BD-9409-7C5D10518A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

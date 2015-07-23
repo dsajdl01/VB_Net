@@ -1,0 +1,23 @@
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\bin\Debug\12.4 Car exercise.exe
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\bin\Debug\12.4 Car exercise.pdb
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\bin\Debug\12.xml
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\ResolveAssemblyReference.cache
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\WindowsApplication1.Form1.resources
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\WindowsApplication1.Resources.resources
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\12.4 Car exercise.vbproj.GenerateResource.Cache
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\12.4 Car exercise.exe
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\12.xml
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\12.4 Car exercise.pdb
+D:\School\Visual\Visual Window Application 10 to -\12.4 Car exercise\obj\Debug\WindowsApplication1.MakeChanges.resources
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\12.4 Car exercise.exe
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\12.xml
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\12.4 Car exercise.pdb
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\bin\Debug\12.4 Car exercise.exe
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\bin\Debug\12.4 Car exercise.pdb
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\bin\Debug\12.xml
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\ResolveAssemblyReference.cache
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\WindowsApplication1.Form1.resources
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\WindowsApplication1.MakeChanges.resources
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\WindowsApplication1.Resources.resources
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\12.4 Car exercise.vbproj.GenerateResource.Cache
+D:\School\Visual\Visual Window Application 10 to - 12\12.4 Car exercise\obj\Debug\WindowsApplication1.PasswordForm.resources
